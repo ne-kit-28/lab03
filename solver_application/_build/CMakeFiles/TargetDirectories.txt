@@ -1,0 +1,14 @@
+/home/tuf15/your-project/lab03/solver_application/_build/CMakeFiles/solver.dir
+/home/tuf15/your-project/lab03/solver_application/_build/CMakeFiles/edit_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/CMakeFiles/rebuild_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_ex/CMakeFiles/formatter_ex.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_ex/CMakeFiles/edit_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_ex/CMakeFiles/rebuild_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_ex/formatter/CMakeFiles/formatter.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_ex/formatter/CMakeFiles/edit_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_ex/formatter/CMakeFiles/rebuild_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/solver_lib/CMakeFiles/solver_lib.dir
+/home/tuf15/your-project/lab03/solver_application/_build/solver_lib/CMakeFiles/edit_cache.dir
+/home/tuf15/your-project/lab03/solver_application/_build/solver_lib/CMakeFiles/rebuild_cache.dir
