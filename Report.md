@@ -1,3 +1,5 @@
+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
+
 cd your-project
 git clone https://github.com/ne-kit-28/lab03.git
 cd
